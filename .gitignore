@@ -1,2 +1,6 @@
 .ipynb_checkpoints
+
 *checkpoint.ipynb
+*.zip
+*.csv
+*.txt
